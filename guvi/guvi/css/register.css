@@ -1,0 +1,29 @@
+.lin {
+    margin-top: 5%;
+  }
+  
+  form {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    border: 1px solid black; /* added border */
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  @media (max-width: 576px) {
+    .lin {
+      margin-top: 10%;
+    }
+  }
+  

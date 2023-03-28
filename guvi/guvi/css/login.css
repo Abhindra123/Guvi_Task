@@ -1,0 +1,18 @@
+/* register.css */
+
+/* set width of input box */
+.form-control {
+    width: 100%;
+    border: 2px solid black;
+  }
+  
+  /* add border to table */
+  .sp table {
+    border: 1px solid black;
+  }
+  
+  /* add padding to table cells */
+  .sp td {
+    padding: 10px;
+  }
+ 
